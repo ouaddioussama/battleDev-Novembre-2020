@@ -6,7 +6,7 @@ ce projet contient la solution des exerices du contest battleDev de novembre 202
 
 * chaque exercice contient des entrées et des sorties qu'il faut fournir pour résoudre le problème .
 
-###  thème du battle Dev semptebre 2020
+###  thème du battle Dev Novembre 2020
 
 ```
 Le temps d'une soirée, vous incarnez Jean-Claude Van Debunk, un des plus grands journalistes d'investigations du XXIe siècle.
